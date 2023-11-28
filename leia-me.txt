@@ -1,0 +1,31 @@
+1. Tudo o que foi pedido foi realizado? Faltou algo?
+
+Acredito que tudo o que foi pedido está realizado.
+
+2. Há algum problema/erro identificado?
+
+Acredito que não.
+
+3. Descrição da experiência: 
+
+Pude aproveitar para entender realmente herança e suas funcionalidades, e tenho crença de que pude absorver o que esperava para este projeto. O que tem me feito evoluir na programação, mesmo que pouco, são as barreiras e desafios que preciso passar em todo projeto apresentado. Ótima experiência.
+
+
+
+4. Dificuldades encontradas: 
+
+Eu tive certas dificuldades, que me deixaram "embananada" num certo nível, pois não sabia como deveria realmente trabalhar as subclasses, apesar de procurar por vídeo aulas no youtube, não conseguia entender como faria neste código em questão, então, fui até a monitoria e consegui administrar juntamente com Mathyas, monitor de POO. Tive também problemas para entender o que realmente deveria fazer e como encaminhar o projeto e cada funcionalidade da super classe(Tarefa) e subclasses, contudo, tirei minhas dúvidas com o professor e pude compreender mais. 
+
+Referências
+
+Herança:
+Vídeos do youtube:
+ 1. https://www.youtube.com/watch?v=-fOCg39SBzc
+ 2. https://www.youtube.com/watch?v=dmqNwVvKqR4
+ 3. https://www.youtube.com/watch?v=vD5g4bHLmDo
+
+ Monitoria:
+
+ Mathyas, monitor de POO
+
+ Código "baseado" no Projeto 01 (Biblioteca) de Ana Gabriely: https://replit.com/@Jenemebous/PROJETO-01
